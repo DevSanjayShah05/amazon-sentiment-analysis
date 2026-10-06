@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
